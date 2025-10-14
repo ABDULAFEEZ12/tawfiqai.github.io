@@ -3,21 +3,19 @@
   <url>
     <loc>https://abdulafeez12.github.io/tawfiqai.github.io/</loc>
     <lastmod>2025-10-14</lastmod>
-    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
-
   <url>
-    <loc>https://abdulafeez12.github.io/tawfiqai.github.io/#about</loc>
+    <loc>https://www.tawfiqai.com/</loc>
     <lastmod>2025-10-14</lastmod>
-    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
-    <loc>https://abdulafeez12.github.io/tawfiqai.github.io/#founder</loc>
-    <lastmod>2025-10-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://www.tawfiqai.com/login</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.tawfiqai.com/signup</loc>
+    <priority>0.6</priority>
   </url>
 </urlset>
